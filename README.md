@@ -19,8 +19,7 @@ This notebook contains explanations, formulas, and exercises used to build a str
 ml-math-prerequisites/
 │
 ├── ML_Math_Prerequisites_Exercises.ipynb
-├── README.md
-└── requirements.txt
+└──  README.md
 ```
 
 ---
@@ -120,9 +119,3 @@ pip install -r requirements.txt
 - Bayes Theorem
 - Correlation vs Causation
 - Regularization
-
----
-
-# Goal
-
-Build strong mathematical intuition for Machine Learning and Deep Learning.
